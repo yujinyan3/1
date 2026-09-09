@@ -56,6 +56,7 @@ coverage/
 .eslintcache
 .parcel-cache/
 .sass-cache/
+hmcl.json
 
 # Temporary local folders
 tmp/
