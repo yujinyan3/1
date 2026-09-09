@@ -1,3 +1,7 @@
+# 1
+
+Repository initialized from the local project folder.
+
 # Software Engineering Course Project
 
 This repository is reserved for the software engineering course project.
@@ -25,5 +29,5 @@ This repository is reserved for the software engineering course project.
 ## Current Status
 
 - Repository initialized locally.
-- GitHub remote: not configured yet.
+- GitHub remote: `https://github.com/yujinyan3/1.git`
 - Project topic: to be defined.
